@@ -7,6 +7,7 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
+
 /* the styles for the header */
 header h2 {
 	font-size: 170%;
@@ -21,10 +22,10 @@ header h3 {
 header img {
 	float: left;
 }
-
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
+
 /* the styles for the section */
 main {
 	clear: left;
